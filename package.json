@@ -1,6 +1,6 @@
 {
   "name": "genzprogaram",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "ita a package for genz function",
   "type": "module",
   "main": "index.js",
